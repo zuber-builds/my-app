@@ -1,0 +1,67 @@
+# DwellFi
+
+> This is the agent-friendly navigation document (llms.txt) for DwellFi's public content. DwellFi is an AI-powered platform that transforms fund administration and real-world asset tokenization for alternative investments. Combining Gen AI, Blockchain, and intelligent automation, DwellFi enables private equity, real estate, venture capital, and hedge funds to streamline operations with 25%+ efficiency gains, 75% faster fund migrations, and 80% reduction in manual reconciliation time.
+
+Important notes:
+
+- DwellFi provides AI-powered fund data platform solutions, not investment advisory or financial decision-making services
+- The platform integrates AI agents that handle repetitive tasks while human teams focus on strategic value-add activities
+- All AI-generated outputs should be reviewed and validated by qualified professionals before making final decisions
+- DwellFi is SOC 2 Type 2 certified, demonstrating strict data security, privacy, and operational controls
+
+## Main Website
+
+- [Home](/index.html.md): AI + Human Collaboration for Private Markets - how DwellFi empowers teams with AI agents that enhance human expertise in fund operations
+- [Company Overview](/about/dwellfi.md): Core mission, vision, and values of DwellFi's approach to transforming asset management through Gen AI, Blockchain, and Tokenization technologies
+- [Meet the Team](/about/team.md): Leadership profiles including founders Kumar Ujjwal (CEO, 2X founder, First PM at Punchh $500M exit) and Deepak Sheoran (CTO, 15+ years at Citadel, Rubrik, Walmart Labs)
+- [Platform Capabilities](/platform.md): Detailed overview of AI agents, fund data platform features, and complementary human-AI collaboration capabilities
+- [Use Cases](/use-cases.md): Real-world applications including data reconciliation, document processing, complex NAV calculations, fee calculations, waterfall distributions, and error detection
+- [Tokenization Platform](/dwellfi-tokenization/index.html.md): Blockchain-powered infrastructure for real-world asset tokenization including private equity funds, real estate, supply chain receivables, and credit markets
+- [Contact](/contact.md): Sales, support contact information and office location for DwellFi inquiries
+
+## AI Agents & Capabilities
+
+- [AI Agent Capabilities](/platform.md): How AI agents excel at data reconciliation (matching thousands of records with perfect accuracy), document processing (extracting structured data without fatigue), complex calculations (NAV, fees, waterfall distributions), error detection (identifying anomalies before they impact operations), and consistent execution (maintaining detailed audit trails)
+- [Human Team Strengths](/platform.md): Areas where human expertise excels including client relationships, strategic decisions, regulatory judgment, exception handling, and process innovation
+- [Before & After DwellFi](/platform.md): Transformation from teams buried in manual operations with high error rates to AI-handled tedious tasks with automated validation and scalable operations without adding staff
+
+## Performance Metrics
+
+- [25%+ Efficiency Gains](/company.md): Real operational improvements clients experience within weeks of implementation across fund administration workflows
+- [75% Faster Fund Migrations](/company.md): Transformation of weeks of manual fund conversion into days of automated processing using AI-powered migration tools
+- [80% Less Reconciliation Time](/company.md): AI-automated matching processes that free teams to focus on exceptions and strategic activities rather than manual reconciliation
+
+## Industry Research & Insights
+
+- [The State of Applied AI in Fund Administration](/news/pr-and-perspectives/d9b2d63d-a5f4-4e6b-8d9e-0f1g2h3i4j5k.md): In-depth industry survey covering AI adoption trends, implementation roadmaps, use cases, and fund valuation applications in alternative investment operations
+- [AI Adoption Rising Fast](/news/pr-and-perspectives/d9b2d63d-a5f4-4e6b-8d9e-0f1g2h3i4j5k.md): Survey results showing rapid acceleration of AI adoption in fund administration over the next 12 months, including groundwork and implementation steps
+- [AI Use Cases in Fund Administration](/news/pr-and-perspectives/d9b2d63d-a5f4-4e6b-8d9e-0f1g2h3i4j5k.md): Practical applications of AI including automated reconciliation, document processing, compliance monitoring, and investor reporting
+- [AI and Blockchain in Fund Valuation](/news/pr-and-perspectives/d9b2d63d-a5f4-4e6b-8d9e-0f1g2h3i4j5k.md): Analysis of how AI improves valuation accuracy and efficiency while blockchain ensures transparency, immutability, and real-time access for stakeholders
+- [DwellFi FTF Technology Innovation Awards 2024](/news/pr-and-perspectives/f47ac10b-58cc-4372-a567-0e02b2c3d479.md): Recognition of DwellFi's innovation in fund administration technology with nominations for prestigious industry awards
+- [Shattering the No-Code Glass Ceiling](/news/pr-and-perspectives/shattering-no-code-glass-ceiling.md): Perspective on how AI and intelligent automation are breaking through traditional limitations in fund operations
+
+## Asset Tokenization
+
+- [Powering Real-World Asset Tokenization](/dwellfi-tokenization/company.md): Vision for unlocking global liquidity and empowering institutions by digitally representing every real-world asset with transparent management and seamless trading
+- [Tokenization Vision](/dwellfi-tokenization/company.md): Building a future where capital moves frictionless across borders, investors access global opportunities, compliance is built into transactions, and institutions control assets with unprecedented security
+- [Bringing Real-World Assets On-Chain](/news/pr-and-perspectives/a1b2c3d4-e5f6-7g8h-9i0j-klmnopqrst.md): Overview of AI-powered tokenization approach combining financial workflows with blockchain automation for capital formation and fractional ownership
+
+## Legal & Compliance
+
+- [AI Disclaimer](/news/pr-and-perspectives/ai-disclaimer.md): Comprehensive explanation of AI limitations, human oversight requirements, no guarantee of accuracy, copyright considerations for AI-generated content, and intellectual property rights
+- [SOC 2 Type 2 Certification](/news/pr-and-perspectives/ai-disclaimer.md): Details on DwellFi's commitment to strict data security, privacy controls, and operational standards for safeguarding sensitive financial data
+- [SEC Compliance Considerations](/news/pr-and-perspectives/d9b2d63d-a5f4-4e6b-8d9e-0f1g2h3i4j5k.md): Guidance on fiduciary duty, disclosure requirements, conflict of interest, governance controls, operational risk assessments, ethical principles, and employee training for AI systems
+- [Privacy Policy](/legal/privacy-policy.md): Comprehensive privacy policy covering data collection, usage, storage, sharing practices, and user rights for DwellFi platform and services
+- [Terms of Service](/legal/terms-of-use.md): Legal terms governing platform usage, services, user obligations, warranties, limitations of liability, and dispute resolution
+- [General Disclaimer](/legal/disclaimer.md): General liability limitations, disclaimers, and risk disclosures for DwellFi platform usage
+
+## Optional
+
+- [Terms of Service - Tokenization](/dwellfi-tokenization/legal/terms-of-use.md): Specific legal terms for tokenization services including blockchain operations and digital asset representations
+- [Privacy Policy - Tokenization](/dwellfi-tokenization/legal/privacy-policy.md): Privacy practices specific to tokenization platform operations and blockchain transaction data
+- [Legal Disclaimer - Tokenization](/dwellfi-tokenization/legal/disclaimer.md): Risk disclosures and limitations specific to tokenization services, digital assets, and blockchain operations
+- [About Alternatives Watch](/news/pr-and-perspectives/d9b2d63d-a5f4-4e6b-8d9e-0f1g2h3i4j5k.md): Information about Alternatives Watch, partner organization for alternative investment industry research and analysis
+- [About Withum](/news/pr-and-perspectives/d9b2d63d-a5f4-4e6b-8d9e-0f1g2h3i4j5k.md): Details about Withum, strategic partner providing fund administration expertise and industry insights
+- [About Cole-Frieman & Mallon](/news/pr-and-perspectives/d9b2d63d-a5f4-4e6b-8d9e-0f1g2h3i4j5k.md): Information about Cole-Frieman & Mallon, legal and compliance partner organization
+- [Full Sitemap](/sitemap-0.xml): Complete XML sitemap listing all DwellFi website pages, resources, and content hierarchy
+
